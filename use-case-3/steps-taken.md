@@ -1,4 +1,4 @@
-##The Following were the steps taken to create my agent
+## The Following were the steps taken to create my agent
 
 **Step 1: Open Copilot Studio**
 
